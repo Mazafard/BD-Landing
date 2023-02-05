@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Bandeira Disciplinada",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -9,17 +9,16 @@
       "href": "product"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Blog",
+      "href": "blog"
     },
     {
-      "name": "About",
+      "name": "About Us",
       "href": "about"
+    },
+    {
+      "name": "Contact Us",
+      "href": "contact"
     }
   ],
   "callToAction": {
@@ -27,36 +26,51 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Making a Positive Impact with",
+    "subtitle": "AI Software",
+    "description": "At BD, we believe that technology can be a powerful tool for improving people's lives. Our team of experts is dedicated to developing cutting-edge AI software solutions that solve real-world problems and make a positive impact on people's lives. From improving healthcare outcomes to streamlining daily tasks, we're committed to helping people live better lives through technology.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "See How We Can Help You",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
+      "text": "Join Our AI Community",
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Ondebus",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Real-time vehicle tracking",
+        "description": "Ondebus provides real-time information on the location and arrival time of public transportation vehicles, so users can plan their trips with confidence and know exactly when their bus or metro will arrive",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Payment management",
+        "description": "With Ondebus, users can pay their public transportation fees online in one transaction or set up recurring payments, so they never have to worry about missing a payment or running out of tickets.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "public transportation card management",
+        "description": "Ondebus allows users to purchase and manage their bus or metro cards directly within the app, so they can have all of their public transportation-related information in one place.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Route planning",
+        "description": "Ondebus provides detailed information on different public transportation routes and schedules, so users can plan their trips more efficiently and avoid delays or unexpected detours.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Push notifications",
+        "description": "Ondebus sends push notifications to users about any changes to their planned trips, such as delays or cancellations, so they can adjust their plans accordingly.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
+    "title": "What We Offer. ",
     "subtitle": "All the best technologies out there!",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [

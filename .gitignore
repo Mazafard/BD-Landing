@@ -33,3 +33,8 @@ local
 
 # vercel
 .vercel
+
+.idea/
+.yarn
+.yarnrc.yml
+
